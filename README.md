@@ -4,13 +4,16 @@ This repository contains a Python project that performs unsupervised clustering 
 
 ## Installation
 1. Clone the repository:
+   '''sh
    git clone https://github.com/kaurrmanpreett/Unsupervised-Clustering-Solutions.git
 
 2. Create a virtual environment (optional but recommended):
+   '''sh
    python -m venv venv
    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
 
 3. Install the required packages:
+   '''sh
    pip install -r requirements.txt
 
 ## Usage
