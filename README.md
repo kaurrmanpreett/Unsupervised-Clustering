@@ -5,7 +5,7 @@ This repository contains a Python project that performs unsupervised clustering 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/kaurrmanpreett/Unsupervised-Clustering-Solutions.git
+   git clone https://github.com/kaurrmanpreett/Unsupervised-Clustering.git
 
 2. Create a virtual environment (optional but recommended):
    ```sh
